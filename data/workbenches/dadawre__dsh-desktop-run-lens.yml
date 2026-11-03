@@ -1,0 +1,10 @@
+url: https://github.com/dadawre/dsh-desktop-run-lens
+name: 运行透视
+nameEn: Run Lens
+category: development
+description:
+  zh: 在 DSH Desktop 里把整段 agent 运行过程画成一张可缩放、可下钻的全景图：所有回合连成一条主链，工具调用与子代理（含嵌套层级）默认全部并入同一张图，并支持会话与时间线视图、按需加载完整内容、丝滑思考与思路偏离对照。
+  en: Visualize an entire agent run in DSH Desktop as one zoomable, drill-down panorama — every turn on a single continuous chain, tool calls and subagents (including nested levels) merged into the same graph, with chat and timeline views, on-demand full content, smooth reasoning playback, and a heuristic divergence check.
+screenshots:
+  - https://raw.githubusercontent.com/dadawre/dsh-desktop-run-lens/03872b41f4408d22dd2111ed8015b5cecb5b89f3/docs/images/overview.png
+tarball: https://github.com/dadawre/dsh-desktop-run-lens/releases/latest/download/dsh-desktop-run-lens.tgz
